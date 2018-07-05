@@ -1,0 +1,9 @@
+User:	hi
+Bot:	What can I call you?
+User:	nothing
+Bot:	Not a thing?
+User:	yes
+Bot:	Tell me more.
+Bot:	City Name :
+User:	delhi
+Bot:	10.0

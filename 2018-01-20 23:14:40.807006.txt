@@ -1,0 +1,4 @@
+User:	weather
+Bot:	City Name :
+User:	delhi
+Bot:	10.0

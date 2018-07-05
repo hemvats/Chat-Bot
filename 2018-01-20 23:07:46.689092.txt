@@ -1,0 +1,10 @@
+User:	hi
+Bot:	What can I call you?
+User:	i will not tell you
+Bot:	How can I be sure?
+User:	i am
+Bot:	"How can I be sure?" You are?
+User:	yes
+Bot:	I understand.
+Bot:	City Name :
+User:	delhi

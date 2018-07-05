@@ -1,0 +1,4 @@
+User:	what is the weather
+Bot:	City Name :
+User:	delhi
+Bot:	condition isClear  and temperature is 8.209
